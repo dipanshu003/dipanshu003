@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipanshu</h1>
-<h3 align="center">I developed strong foundation in Java & MySQL</h3>
+<h3 align="center">Passionate to work in IT Industry...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshu003&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshu003" /> </p>
 
@@ -7,9 +7,13 @@
 
 - 🌱 I’m currently learning **Full Stack, Hibernate, DSA, Spring Boot**
 
+- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
+
 - 💬 Ask me about **Core Java, MySQL, JDBC**
 
 - 📫 How to reach me **dholedipanshu@gmail.com**
+
+- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
