@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack, Hibernate, DSA, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dashboard]([https://github.com/dashboard](https://github.com/dipanshu003?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/dashboard]([https://github.com/dashboard])
 
 - 💬 Ask me about **Core Java, MySQL, JDBC**
 
